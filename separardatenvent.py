@@ -51,5 +51,6 @@ año[' degree '] = ad
    
 hora.to_csv('deghora.csv')
 semana.to_csv('degsemana.csv')
+dia.to_csv('degdia.csv')
 mes.to_csv('degmes.csv')
 año.to_csv('degaño.csv')
